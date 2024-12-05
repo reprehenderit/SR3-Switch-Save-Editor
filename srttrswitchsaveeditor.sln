@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srttrswitchsaveeditor", "srttrswitchsaveeditor\srttrswitchsaveeditor.csproj", "{C2BE7B51-D921-493A-BF81-E732C4F5DFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BE7B51-D921-493A-BF81-E732C4F5DFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BE7B51-D921-493A-BF81-E732C4F5DFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BE7B51-D921-493A-BF81-E732C4F5DFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BE7B51-D921-493A-BF81-E732C4F5DFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7356DAE-BD3C-4E4C-9107-FBD2917C1685}
+	EndGlobalSection
+EndGlobal
